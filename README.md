@@ -1,2 +1,4 @@
 # hello-world
-Just starting
+// Just starting
+// to code within github
+printf("Hello world");
